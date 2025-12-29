@@ -16,5 +16,5 @@ if __name__ == "__main__":
     topic = input("Enter research topic: ")
     output = run_research(topic)
 
-    print("\n===== FINAL REPORT =====\n")
+    print("\n FINAL REPORT\n")
     print(output)
